@@ -1,4 +1,4 @@
-## Bonjour 👋
+## Salut 👋
 
 I graduated from the University of Birmingham in 2016 with a degree in Physics and Mathematics. I've been working in software ever since...
 
